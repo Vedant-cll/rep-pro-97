@@ -1,0 +1,33 @@
+body{
+background-image: url("https://images.hdqwalls.com/download/material-design-2-qu-1920x1080.jpg");
+}
+h1{
+    color:darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:xx-large;
+
+}
+button{
+    background-color: rgb(6, 125, 165);
+    color: white;
+    font-size:x-large;
+}
+#se-1{
+
+    background-image: url("https://i.pinimg.com/736x/0a/05/65/0a0565a649bbdcb39c59061d3df01be0.jpg");
+width: 650px;
+    height: 750px;
+    border-width: 10px;
+    border-color: darkslateblue;
+    border-style:solid ;
+}
+#se-2{
+    background-image: url("https://i2.wp.com/www.titanui.com/wp-content/uploads/2013/02/01/Abstract-Colored-Hexagon-Background-Vector.jpg");
+width: 600px;
+    height: 615px;
+    border-width: 10px;
+    border-color: darkslateblue;
+    border-style:solid ;
+
+    
+}
